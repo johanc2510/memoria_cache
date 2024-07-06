@@ -1,0 +1,18 @@
+Parâmetros de entrada:
+Número de conjuntos: 8
+Linhas por conjunto: 4
+Tamanho do bloco: 16
+Política de escrita: 1
+Tempo de hit: 10 ns
+Política de substituição: 1
+Tempo de leitura da memória principal: 100 ns
+Tempo de escrita da memória principal: 100 ns
+Total de endereços: 100
+Total de leituras: 88
+Total de escritas: 12
+Total de escritas na memória principal: 2
+Total de leituras na memória principal: 93
+Taxa de acerto (leituras): 0.0795 (88)
+Taxa de acerto (escritas): 0.5833 (12)
+Taxa de acerto (global): 0.0700 (100)
+Tempo médio de acesso: 103.0000 ns
